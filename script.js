@@ -278,9 +278,9 @@ p3.sePresenter(); // Bonjour, je m'appelle Bob et j'ai 30 ans.
 
 
 class Personne {
-    constructor(nom, age) {
+    constructor(name3, age3) {
         this.nom3 = nom3;
-        this.age3 = age;
+        this.age3 = this.age3;
     }
 
     sePresenter() {
