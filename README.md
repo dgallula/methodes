@@ -1,4 +1,4 @@
-les differentes methodes javascript pour les tableaux Méthodes et Fonctions Principales
+les differentes methodes javascript pour les tableaux et kes strings 
 Array Methods :
 
 map
